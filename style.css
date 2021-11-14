@@ -1,7 +1,6 @@
 .search {
-	text-align: right;
-	color: blue;
-	font-size: 18px;
+	padding-left: 15px;
+    font-size: 13px;
 	}
 	.image {
 	display: flex;
